@@ -6,17 +6,17 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=kimukimuyuya)](https://github.com/ryo-ma/github-profile-trophy)
 
-<!--
-**kimukimuyuya/kimukimuyuya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 制作物
+#### 就活エージェント比較サイト（就活エージェントSaaS）
+- [リポジトリ](https://github.com/kimukimuyuya/teamdev-2023)
+- 概要：学生に寄り添った就活エージェント比較サイトの作成を受託開発したという想定でした
+- 製作期間：2023/04~06
+- チームメンバー：4人
+- 役割：リーダー
+- 担当：フロント・バックエンドをフルスタックに開発
+- 結果：12チームの中で最優秀賞
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### 話題生成アプリケーション（現在制作中）
+- [リポジトリ](https://github.com/kimukimuyuya/36-questions)
+- 背景：「ITの力を使って人々に温かい感情を届けたい」という自身の願いを実現させたい
+- 技術スタック：Next.js/TypeScript
