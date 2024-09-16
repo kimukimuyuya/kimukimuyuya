@@ -19,4 +19,4 @@
 #### 話題生成アプリケーション（現在制作中）
 - [リポジトリ](https://github.com/kimukimuyuya/36-questions)
 - 背景：「ITの力を使って人々に温かい感情を届けたい」という自身の願いを実現させたい
-- 技術スタック：Next.js/TypeScript
+- 技術スタック：Next.js/TypeScript/Supabase/Prisma
