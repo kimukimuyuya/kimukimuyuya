@@ -28,7 +28,7 @@ Others
 - 担当：フロント・バックエンドをフルスタックに開発
 - 結果：12チームの中で最優秀賞
 
-#### 話題提供アプリケーション
+#### 36の質問(話題提供アプリケーション)
 - [リポジトリ](https://github.com/kimukimuyuya/36-questions)
 - 背景：「ITの力を使って人々に温かい感情を届けたい」という自身の願いを実現させたい
 - 技術スタック：Next.js/TypeScript/Supabase/Prisma
