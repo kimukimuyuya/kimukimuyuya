@@ -33,3 +33,7 @@ Others
 - 背景：「ITの力を使って人々に温かい感情を届けたい」という自身の願いを実現させたい
 - 技術スタック：Next.js/TypeScript/Supabase/Prisma
 - 個人開発
+
+## その他
+- zenn: https://zenn.dev/kimu0531
+- 自己紹介資料: https://www.canva.com/design/DAGRDot6cwo/BuK80cJgC1R3fD8kZIjkRw/edit?ui=eyJIIjp7IkEiOnRydWV9fQ
