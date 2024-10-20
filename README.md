@@ -35,10 +35,11 @@ Others
 - 個人開発
 
 #### meee(現在制作中)
-- https://github.com/CIATIAT/meee
+- [リポジトリ](https://github.com/CIATIAT/meee)
 - 背景：周りに何に興味があってどんな価値観を持っているかをシンプルにかわいく伝えて、交友関係を広げるきっかけを作りたい
 - 技術スタック：SvelteKit/Three.js/Firebase
 - 友人と開発
+
 ## その他
 - zenn: https://zenn.dev/kimu0531
 - 自己紹介資料: https://www.canva.com/design/DAGRDot6cwo/BuK80cJgC1R3fD8kZIjkRw/edit?ui=eyJIIjp7IkEiOnRydWV9fQ
