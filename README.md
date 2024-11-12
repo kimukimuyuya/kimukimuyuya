@@ -36,6 +36,7 @@ Others
 
 #### meee(現在制作中)
 - [リポジトリ](https://github.com/CIATIAT/meee)
+- [URL](https://c6043477.meee.pages.dev/)
 - 背景：周りに何に興味があってどんな価値観を持っているかをシンプルにかわいく伝えて、交友関係を広げるきっかけを作りたい
 - 技術スタック：SvelteKit/Three.js/Firebase
 - 友人と開発
