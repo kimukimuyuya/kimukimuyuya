@@ -34,7 +34,7 @@ Others
 - 技術スタック：Next.js/TypeScript/Supabase/Prisma
 - 個人開発
 
-#### meee(現在制作中)
+#### meee
 - [リポジトリ](https://github.com/CIATIAT/meee)
 - [URL](https://meee.be/)
 - 背景：周りに何に興味があってどんな価値観を持っているかをシンプルにかわいく伝えて、交友関係を広げるきっかけを作りたい
