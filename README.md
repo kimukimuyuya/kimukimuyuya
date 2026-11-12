@@ -7,11 +7,11 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=kimukimuyuya)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## About Me
-- ソフトウェアエンジニア（LINEヤフー、新卒1年目）
+- ソフトウェアエンジニア（新卒1年目）
 - 現在は Java をメインに開発しています。フロントエンドは Vue.js の実務経験があります
 - Codex などのコーディングエージェントを使った AI 駆動開発、CI/CD、GitHub App 開発、脆弱性の自動対応など、開発基盤 / DevSecOps 領域に取り組んでいます
-- 学生時代は LayerX で FDE（Forward Deployed Engineer）インターンを約8か月経験しました
-- 資格・語学： 基本情報技術者 / TOEIC 800
+- 学生時代は AI SaaS スタートアップで FDE（Forward Deployed Engineer）インターンを約8か月経験しました
+- 資格・語学： 基本情報技術者 / 応用情報技術者 / TOEIC 800
 
 ### My Skills
 Frontend
@@ -56,7 +56,7 @@ AI / LLM
 - 友人と開発
 
 ## 記事・発信
-- LayerX エンジニアブログ: [LLMによる「非定型見積書の明細抽出タスク」の精度を約80%→約95%に改善した話](https://tech.layerx.co.jp/entry/2026/01/14/125350)（FDEインターン時の取り組み。本手法は特許出願済み）
+- テックブログ執筆: 「LLMによる『非定型見積書の明細抽出タスク』の精度を約80%→約95%に改善した話」（FDEインターン時の取り組み。本手法は特許出願済み）
 - zenn: https://zenn.dev/kimu0531
 
 ## その他
